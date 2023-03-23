@@ -1,0 +1,10 @@
+{
+	"active": true,
+	"version": "1.0",
+	"x": 0,
+	"y": 0,
+	"delay_in_sec": {
+		"min": 300,
+		"max": 480
+	}
+}
